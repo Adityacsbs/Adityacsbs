@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aadityaraj singh chouhan
-- 👀 I’m interested in webD and core coding...
+- 👀 I’m interested in fullstack development and problem solving.
 - 🌱 I’m currently learning C/C++ , Java and backend Development.
 - 💞️ I’m looking to collaborate on java backend projects
 - 📫 How to reach me my mail address aadityarajsingh0903@gmail.com.
