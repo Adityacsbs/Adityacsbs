@@ -33,7 +33,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Adityacsbs&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityacsbs&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 # 🔥 GitHub Streak 🔥
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CrutoSJ&theme=tokyonight-duo" alt="Sumit Jha" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adityacsbs&theme=tokyonight-duo" alt="Sumit Jha" /></p>
 
 
 ### ✍️ Random Dev Quote
