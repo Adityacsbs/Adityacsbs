@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Adityacsbs/Adityacsbs/blob/d49409c0cc4f9d8465a3a9634f56e73d21367a1d/header.png)
+![MasterHead](https://github.com/Adityacsbs/Adityacsbs/blob/c3d5bb9d4ab5de7f5fe5ecd6c76045a94746c59c/banner%20(3).png)
 <h1 align="center">Hi 👋, I'm Aadityaraj Singh Chouhan</h1>
 <h3 align="center">A passionate developer and Undergrad Student from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityacsbs&label=Profile%20views&color=0e75b6&style=flat" alt="adityacsbs" /> </p>
